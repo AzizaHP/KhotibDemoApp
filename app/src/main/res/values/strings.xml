@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Khatib</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="info_masjid">Info Masjid</string>
+    <string name="info_pengurus_masjid">Info Pengurus Masjid</string>
+    <string name="halangan">Saya berhalangan hadir</string>
+</resources>
